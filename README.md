@@ -5,3 +5,5 @@
 4) https://www.edaplayground.com/x/YyCP ---> Array: dynamic array and associate_array in_build funtion
 5) https://www.edaplayground.com/x/bMYK ---> Queues and build_in function
 6) https://www.edaplayground.com/x/c7fD --->Classes Instance variation
+7) https://www.edaplayground.com/x/c7fD ---> class pratice from part 6
+8) 
