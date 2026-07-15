@@ -6,4 +6,4 @@
 5) https://www.edaplayground.com/x/bMYK ---> Queues and build_in function
 6) https://www.edaplayground.com/x/c7fD --->Classes Instance variation
 7) https://www.edaplayground.com/x/c7fD ---> class pratice from part 6
-8) 
+8) https://www.edaplayground.com/x/CEMU  ---> parametric class
