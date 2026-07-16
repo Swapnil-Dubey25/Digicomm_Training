@@ -7,3 +7,10 @@
 6) https://www.edaplayground.com/x/c7fD --->Classes Instance variation
 7) https://www.edaplayground.com/x/c7fD ---> class pratice from part 6
 8) https://www.edaplayground.com/x/CEMU  ---> parametric class
+
+9) https://www.edaplayground.com/x/jPud
+//1.inheritance: extend keyword with parametric class
+//2.super
+//3.this
+//4.virtual
+//5. upcasting downcasting and $cast function
