@@ -6,10 +6,13 @@
 5) https://www.edaplayground.com/x/bMYK ---> Queues and build_in function
 6) https://www.edaplayground.com/x/c7fD --->Classes Instance variation
 7) https://www.edaplayground.com/x/c7fD ---> class pratice from part 6
-8) https://www.edaplayground.com/x/CEMU  ---> parametric class
+
+8) https://www.edaplayground.com/x/CEMU
+    15/07/2026
+   ---> parametric class
 
 9) https://www.edaplayground.com/x/jPud                          
-16/07/2026
+    16/07/2026
 --> Inheritance: extend keyword with parametric class
 -->.super
 -->.this
