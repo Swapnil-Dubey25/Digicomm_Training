@@ -8,7 +8,6 @@
 7) https://www.edaplayground.com/x/c7fD ---> class pratice from part 6
 
 8) https://www.edaplayground.com/x/CEMU
-    15/07/2026
    ---> parametric class
 
 9) https://www.edaplayground.com/x/jPud                          
