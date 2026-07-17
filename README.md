@@ -17,3 +17,9 @@
 -->.this
 --> virtual
 --> upcasting downcasting and $cast function
+
+10) https://www.edaplayground.com/x/cT6E
+--> Array maniulation methods(unpacked arrays): find(), find_index(), find_first_index(), find_last(), find_last_index(), max(), min(), unique(), unique_index()
+--> Array ordering methods: reverse(), sort(), rsort(), shuffle()
+--> Array reduction methods: sum(), product(), or(), and(), xor()
+--> Array map- function 
