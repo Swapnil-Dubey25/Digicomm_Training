@@ -24,7 +24,7 @@
 --> Array reduction methods: sum(), product(), or(), and(), xor()
 --> Array map- function 
 
-11) https://www.edaplayground.com/x/YPf_
+11) https://www.edaplayground.com/x/YPf_ :
 20-07-2026
 1.) Queue: size(), insert(), delete(), push_front(), push_back(), pop_front(), pop_back() 
 2.) use of scope resolution
