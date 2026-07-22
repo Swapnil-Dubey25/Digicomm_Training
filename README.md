@@ -36,3 +36,10 @@
 -->application of pure virtual function
 -->big endian and little endian
 -->system verilog operator: arithmetic operators, relational operator, equality operator, wildcard equality operator, logical operator, bitwise operator, reduction operator, stream operator, shift operator, condtional operator, repitition operator.
+
+13) https://www.edaplayground.com/x/DLCw
+22-07-2026
+--> problems on stream operators 
+--> logical and arithmetic operator
+--> concatenation operator
+--> repitiion operator 
