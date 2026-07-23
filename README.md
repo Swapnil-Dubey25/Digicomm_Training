@@ -43,3 +43,9 @@
 --> logical and arithmetic operator
 --> concatenation operator
 --> repitiion operator 
+
+14) https://www.edaplayground.com/x/DQq6
+23-07-2026
+-->use of interface and various modules and tb_top
+-->interface with ports
+-->interface with ports and modports.
