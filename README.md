@@ -49,3 +49,8 @@
 -->use of interface and various modules and tb_top
 -->interface with ports
 -->interface with ports and modports.
+
+15.) https://www.edaplayground.com/x/fZTk
+24/07/2026
+//Assignment related to multiple modules for adder and mutipler and interface for signal bundle and usage with top level instance
+//using modport as expression
