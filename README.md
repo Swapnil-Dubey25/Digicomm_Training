@@ -54,3 +54,6 @@
 24/07/2026
 //Assignment related to multiple modules for adder and mutipler and interface for signal bundle and usage with top level instance
 //using modport as expression
+
+16)  EDA --> https://www.edaplayground.com/x/iMHP
+         -->   
