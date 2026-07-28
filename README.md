@@ -56,7 +56,7 @@
 //using modport as expression
 
 16)  EDA --> https://www.edaplayground.com/x/iMHP
-25/07/2026
+27/07/2026
 -->  `COMPILER DIRECTIVE-->
 `timescale, `ifdef, `ifndef,`ifels, `else, `endif, `define
 ---> using macros as expression
