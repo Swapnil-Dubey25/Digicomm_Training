@@ -55,8 +55,14 @@
 //Assignment related to multiple modules for adder and mutipler and interface for signal bundle and usage with top level instance
 //using modport as expression
 
-16)  EDA --> https://www.edaplayground.com/x/iMHP
+16)  https://www.edaplayground.com/x/iMHP
 27/07/2026
 -->  `COMPILER DIRECTIVE-->
 `timescale, `ifdef, `ifndef, `ifels, `else, `endif, `define
 ---> using macros as expression
+
+17) https://www.edaplayground.com/x/HABV
+//28-07-2026
+//packages
+//interface import and export 
+//calling a module function inside class using export
