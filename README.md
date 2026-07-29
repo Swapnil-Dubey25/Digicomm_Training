@@ -66,3 +66,8 @@
 //packages import and export
 //interface import and export 
 //calling a module function inside class using export
+
+18) https://www.edaplayground.com/x/Vi6W
+//29-07-2026
+//working with packages 
+// using combination of struct function within package
