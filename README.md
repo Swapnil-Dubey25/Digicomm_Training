@@ -72,7 +72,3 @@
 //working with packages 
 // using combination of struct function within package
 
-19) https://www.edaplayground.com/x/Vi6W
-//29-07-2026
-//working with packages 
-// using combination of struct function within package
