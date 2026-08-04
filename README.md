@@ -72,3 +72,17 @@
 //working with packages 
 // using combination of struct function within package
 
+19) -->AXI transaction structure
+-->transaction signals like awlen, awsize.
+-->burst type-->fixed, incr, wrap.
+-->use of wstrob in AXI transaction with normal transaction and narrow transaction.
+--> incr and wrap address calculation using aligned and unaligned transaction.
+
+20) https://www.edaplayground.com/x/dfqr
+// 04-08-2026
+//fork--join, fork--join_any, fork---join_none.
+//fork join = join_none + wait fork
+//fork join = join_any + wait fork
+//join_none to join_any
+//disable fork
+//wait fork
