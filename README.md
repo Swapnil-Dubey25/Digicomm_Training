@@ -86,3 +86,13 @@
 //join_none to join_any
 //disable fork
 //wait fork
+
+21) https://www.edaplayground.com/x/JY3Q
+//use of static keyword with variable
+//use of static method in class
+//static before function and static after function in class
+//factorial using recursion
+//fibonaccii series using recursion
+//using a function with class type return
+//using a function with class type return and class argument
+//fork--join_none with automatic and static function
