@@ -100,6 +100,8 @@
 
 22) https://www.edaplayground.com/x/RYa6
 //06-08-2026
+events and triggers used in sv,
+calculation of unaligned transfer mechanism in simple and narrow transfer.
 
-23) https://www.edaplayground.com/x/CdyG
+24) https://www.edaplayground.com/x/CdyG
 //07-08-2026
