@@ -105,3 +105,4 @@ calculation of unaligned transfer mechanism in simple and narrow transfer.
 
 24) https://www.edaplayground.com/x/CdyG
 //07-08-2026
+calling a class witin a class: linked list:
