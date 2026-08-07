@@ -88,6 +88,7 @@
 //wait fork
 
 21) https://www.edaplayground.com/x/JY3Q
+//05-08-2026
 //use of static keyword with variable
 //use of static method in class
 //static before function and static after function in class
@@ -96,3 +97,9 @@
 //using a function with class type return
 //using a function with class type return and class argument
 //fork--join_none with automatic and static function
+
+22) https://www.edaplayground.com/x/RYa6
+//06-08-2026
+
+23) https://www.edaplayground.com/x/CdyG
+//07-08-2026
