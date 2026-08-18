@@ -120,7 +120,7 @@ calling a class within a class: linked list:
 //question_9: constraints on 2 array with even row has odd_values and odd_row has even values
 
 26) https://www.edaplayground.com/x/hfk5
-//17-08-2026
+//18-08-2026
 //question_10: constraint to generate : 1010101010 using single bit
 //question_11: constraints to generate: 122333444455555......
 //question_12: constraints print the pattern: 1 10 1100 111000 11110000 1111100000....
