@@ -93,7 +93,7 @@
 //use of static method in class
 //static before function and static after function in class
 //factorial using recursion
-//fibonaccii series using recursion
+//fibonacci series using recursion
 //using a function with class type return
 //using a function with class type return and class argument
 //fork--join_none with automatic and static function
@@ -105,4 +105,16 @@ calculation of unaligned transfer mechanism in simple and narrow transfer.
 
 24) https://www.edaplayground.com/x/CdyG
 //07-08-2026
-calling a class witin a class: linked list:
+calling a class within a class: linked list:
+
+25) https://www.edaplayground.com/x/THmU
+//18-08-2026
+//question_1:  1 2 3 4 5 5 4 3 2 1.
+//question_2:   9 19 29 39 49 59 69 79 89 99
+//question_3: 5 -10 15 -20 25 -30
+//question_4: 1122334455. (create set of i/n where n is nmber of repitition)
+//question_5 1.35 and 2.57.
+//question_6 : Write a constraint for a 32-bit random variable to have 12 number of 1's non-consecutively
+//question_7: Write a constraint to generate the factorial of the first 5 even and odd numbers
+//question_8: unique number divisible by 3
+//question_9: constraints on 2 array with even row has odd_values and odd_row has even values
