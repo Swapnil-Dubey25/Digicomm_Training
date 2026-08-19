@@ -30,7 +30,7 @@
 //use of scope resolution.<br>
 //application of super keyword.<br> 
 
-12) https://www.edaplayground.com/x/cWpW
+12) https://www.edaplayground.com/x/cWpW <br>
 //21-07-2026<br>
 //abstract class<br>
 //application of pure virtual function<br>
@@ -87,7 +87,7 @@
 //disable fork.<br>
 //wait fork.<br>
 
-21) https://www.edaplayground.com/x/JY3Q
+21) https://www.edaplayground.com/x/JY3Q <br>
 //05-08-2026.<br>
 //use of static keyword with variable.<br>
 //use of static method in class.<br>
