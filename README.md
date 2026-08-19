@@ -107,24 +107,24 @@ calculation of unaligned transfer mechanism in simple and narrow transfer.
 //07-08-2026
 calling a class within a class: linked list:
 
-25) https://www.edaplayground.com/x/THmU
-//17-08-2026
-//question_1:  1 2 3 4 5 5 4 3 2 1.
-//question_2:  9 19 29 39 49 59 69 79 89 99
-//question_3:  5 -10 15 -20 25 -30
-//question_4: 1122334455. (create set of i/n where n is nmber of repitition)
-//question_5 1.35 and 2.57.
-//question_6 : Write a constraint for a 32-bit random variable to have 12 number of 1's non-consecutively
-//question_7: Write a constraint to generate the factorial of the first 5 even and odd numbers
-//question_8: unique number divisible by 3
-//question_9: constraints on 2 array with even row has odd_values and odd_row has even values
+25) https://www.edaplayground.com/x/THmU <br>
+//17-08-2026<br>
+//question_1:  1 2 3 4 5 5 4 3 2 1<br>
+//question_2:  9 19 29 39 49 59 69 79 89 99<br>
+//question_3:  5 -10 15 -20 25 -30<br>
+//question_4: 1122334455. (create set of i/n where n is nmber of repitition) <br>
+//question_5 1.35 and 2.57. <br>
+//question_6 : Write a constraint for a 32-bit random variable to have 12 number of 1's non-consecutively.<br>
+//question_7: Write a constraint to generate the factorial of the first 5 even and odd numbers.<br>
+//question_8: unique number divisible by 3.<br>
+//question_9: constraints on 2 array with even row has odd_values and odd_row has even values.<br>
 
-26) https://www.edaplayground.com/x/hfk5
-//18-08-2026
-//question_10: constraint to generate : 1010101010 using single bit
-//question_11: constraints to generate: 122333444455555......
-//question_12: constraints print the pattern: 1 10 1100 111000 11110000 1111100000....
+26) https://www.edaplayground.com/x/hfk5 <br>
+//18-08-2026<br>
+//question_10: constraint to generate : 1010101010 using single bit.<br>
+//question_11: constraints to generate: 122333444455555......<br>
+//question_12: constraints print the pattern: 1 10 1100 111000 11110000 1111100000....<br>
 
-27) https://www.edaplayground.com/x/gmfC 
-//19-08-2026
-//Question_13: randc implementation using rand 
+27) https://www.edaplayground.com/x/gmfC <br>
+//19-08-2026<br>
+//Question_13: randc implementation using rand.<br>
