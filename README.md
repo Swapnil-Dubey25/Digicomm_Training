@@ -56,7 +56,7 @@
  //using modport as expression <br>
 
 16)  https://www.edaplayground.com/x/iMHP <br>
-// 27/07/2026 <br>
+//27/07/2026 <br>
 //  `COMPILER DIRECTIVE--> <br>
 // `timescale, `ifdef, `ifndef, `ifels, `else, `endif, `define <br>
 // using macros as expression <br>
