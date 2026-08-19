@@ -37,40 +37,40 @@
 -->big endian and little endian
 -->system verilog operator: arithmetic operators, relational operator, equality operator, wildcard equality operator, logical operator, bitwise operator, reduction operator, stream operator, shift operator, condtional operator, repitition operator.
 
-13) https://www.edaplayground.com/x/DLCw
-22-07-2026
---> problems on stream operators 
---> logical and arithmetic operator
---> concatenation operator
---> repitiion operator 
+13) https://www.edaplayground.com/x/DLCw <br>
+//22-07-2026 <br>
+// problems on stream operators  <br>
+// logical and arithmetic operator <br>
+// concatenation operator <br>
+// repitiion operator <br>
 
-14) https://www.edaplayground.com/x/DQq6
-23-07-2026
--->use of interface and various modules and tb_top
--->interface with ports
--->interface with ports and modports.
+14) https://www.edaplayground.com/x/DQq6 <br>
+//23-07-2026 <br>
+//use of interface and various modules and tb_top.<br>
+//interface with ports.<br>
+//interface with ports and modports.<br>
 
-15.) https://www.edaplayground.com/x/fZTk
-24/07/2026
-//Assignment related to multiple modules for adder and mutipler and interface for signal bundle and usage with top level instance
-//using modport as expression
+15.) https://www.edaplayground.com/x/fZTk <br>
+// 24/07/2026<br>
+//Assignment related to multiple modules for adder and mutipler and interface for signal bundle and usage with top level instance <br>
+//using modport as expression <br>
 
-16)  https://www.edaplayground.com/x/iMHP
-27/07/2026
--->  `COMPILER DIRECTIVE-->
-`timescale, `ifdef, `ifndef, `ifels, `else, `endif, `define
----> using macros as expression
+16)  https://www.edaplayground.com/x/iMHP <br>
+// 27/07/2026 <br>
+//  `COMPILER DIRECTIVE--> <br>
+// `timescale, `ifdef, `ifndef, `ifels, `else, `endif, `define <br>
+// using macros as expression <br>
 
-17) https://www.edaplayground.com/x/HABV
-//28-07-2026
-//packages import and export
-//interface import and export 
-//calling a module function inside class using export
+17) https://www.edaplayground.com/x/HABV <br>
+//28-07-2026 <br>
+//packages import and export <br>
+//interface import and export <br>
+//calling a module function inside class using export <br>
 
-18) https://www.edaplayground.com/x/Vi6W
-//29-07-2026
-//working with packages 
-// using combination of struct function within package
+18) https://www.edaplayground.com/x/Vi6W <br>
+//29-07-2026 <br>
+//working with packages <br>
+// using combination of struct function within package <br>
 
 19) -->AXI transaction structure
 -->transaction signals like awlen, awsize.
@@ -78,34 +78,34 @@
 -->use of wstrob in AXI transaction with normal transaction and narrow transaction.
 --> incr and wrap address calculation using aligned and unaligned transaction.
 
-20) https://www.edaplayground.com/x/dfqr
-// 04-08-2026
-//fork--join, fork--join_any, fork---join_none.
-//fork join = join_none + wait fork
-//fork join = join_any + wait fork
-//join_none to join_any
-//disable fork
-//wait fork
+20) https://www.edaplayground.com/x/dfqr <br>
+// 04-08-2026 <br>
+//fork--join, fork--join_any, fork---join_none. <br>
+//fork join = join_none + wait fork.<br>
+//fork join = join_any + wait fork.<br>
+//join_none to join_any.<br>
+//disable fork.<br>
+//wait fork.<br>
 
 21) https://www.edaplayground.com/x/JY3Q
-//05-08-2026
-//use of static keyword with variable
-//use of static method in class
-//static before function and static after function in class
-//factorial using recursion
-//fibonacci series using recursion
-//using a function with class type return
-//using a function with class type return and class argument
-//fork--join_none with automatic and static function
+//05-08-2026.<br>
+//use of static keyword with variable.<br>
+//use of static method in class.<br>
+//static before function and static after function in class.<br>
+//factorial using recursion.<br>
+//fibonacci series using recursion.<br>
+//using a function with class type return.<br>
+//using a function with class type return and class argument.<br>
+//fork--join_none with automatic and static function.<br>
 
-22) https://www.edaplayground.com/x/RYa6
-//06-08-2026
-events and triggers used in sv,
-calculation of unaligned transfer mechanism in simple and narrow transfer.
+22) https://www.edaplayground.com/x/RYa6 <br>
+//06-08-2026 <br>
+events and triggers used in sv. <br>
+calculation of unaligned transfer mechanism in simple and narrow transfer. <br>
 
-24) https://www.edaplayground.com/x/CdyG
-//07-08-2026
-calling a class within a class: linked list:
+24) https://www.edaplayground.com/x/CdyG <br>
+//07-08-2026 <br>
+calling a class within a class: linked list. <br>
 
 25) https://www.edaplayground.com/x/THmU <br>
 //17-08-2026<br>
