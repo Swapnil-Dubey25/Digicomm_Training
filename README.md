@@ -126,5 +126,9 @@
 //question_12: constraints print the pattern: 1 10 1100 111000 11110000 1111100000....<br>
 
 27) https://www.edaplayground.com/x/gmfC <br>
-//19-08-2026<br>
-//Question_13: randc implementation using rand.<br>
+ //19-08-2026 <br>
+//question_13: randc implementation using rand <br>
+//question_14: write constraints such that 2 different queue's has diferent elements <br>
+//question_15: application of dist. <br>
+//question_16: constraints to generate a 32 bit pattern with exactly one bit high. <br>
+//question_17: generate alternate pair of 1 and 0 ex: 1100110011001100. <br>
