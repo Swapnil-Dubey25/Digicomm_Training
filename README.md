@@ -17,7 +17,7 @@
 8) https://www.edaplayground.com/x/CEMU <br>
 //parametric class <br>
 
-9) https://www.edaplayground.com/x/jPud <br>                        
+9) https://www.edaplayground.com/x/jPud <br>
 //16/07/2026 <br>
 //Inheritance: extend keyword with parametric class <br>
 //.super <br>
