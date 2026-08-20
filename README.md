@@ -1,5 +1,6 @@
 # Digicomm_Training
 1) https://www.edaplayground.com/x/BjDy <br>
+//06-07-2026 <br>
 //Data_types <br>
 2) https://www.edaplayground.com/x/seEH  and https://www.edaplayground.com/x/uUW9 <br>
 //union,structure, typedef ussage and enum <br>
