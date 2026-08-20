@@ -146,8 +146,8 @@
 
 27) https://www.edaplayground.com/x/q9pv <br>
 //20-08-2026: <br>
-//Question_18: packet is randomized such that its size is with 11 to 22 and each next element is greater than previous by 2. <br>
-//Question_19: 2-D array with each element unique with unique <br>
+//question_18: packet is randomized such that its size is with 11 to 22 and each next element is greater than previous by 2. <br>
+//question_19: 2-D array with each element unique with unique <br>
 //question_20: sorting the randomzised dynamic array making asending thtough constraints and later descending at post_randomize <br>
 //question_21: write constraints to randomize 2 varibale such that they are never equal and total number of toggle bit of data_1 is 5 wrt data_2. <br>
 //question_22: armstrong nmber: 371==> 3**3 + 7**3 + 1**3: <br>
