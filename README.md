@@ -3,8 +3,10 @@
 //06-07-2026 <br>
 //Data_types <br>
 2) https://www.edaplayground.com/x/seEH  and https://www.edaplayground.com/x/uUW9 <br>
+//07-07-2026 <br>
 //union,structure, typedef ussage and enum <br>
 3) https://www.edaplayground.com/x/g2Fd <br>
+//08-07-2026 <br>
 //Array: fixed size with problem with build_in function <br>
 4) https://www.edaplayground.com/x/YyCP <br>
 //Array: dynamic array and associate_array in_build funtion <br>
