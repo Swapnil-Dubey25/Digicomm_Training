@@ -151,3 +151,5 @@
 //question_20: sorting the randomzised dynamic array making asending thtough constraints and later descending at post_randomize <br>
 //question_21: write constraints to randomize 2 varibale such that they are never equal and total number of toggle bit of data_1 is 5 wrt data_2. <br>
 //question_22: armstrong nmber: 371==> 3**3 + 7**3 + 1**3: <br>
+
+28.) <img width="1435" height="835" alt="image" src="https://github.com/user-attachments/assets/4acbc0c8-b9fb-4056-9987-735189ce61e5" />
