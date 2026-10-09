@@ -156,4 +156,7 @@
 
 29) https://www.edaplayground.com/x/AfMK
     //coverage
+
+30) https://www.edaplayground.com/x/qDJL
+    //semaphore
     
