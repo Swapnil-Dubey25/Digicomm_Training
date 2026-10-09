@@ -154,6 +154,8 @@
 
 28.) <img width="1435" height="835" alt="image" src="https://github.com/user-attachments/assets/4acbc0c8-b9fb-4056-9987-735189ce61e5" />
 
+https://www.edaplayground.com/x/KyWG
+
 29) https://www.edaplayground.com/x/AfMK
     //coverage
 
