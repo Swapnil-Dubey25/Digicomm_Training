@@ -153,3 +153,7 @@
 //question_22: armstrong nmber: 371==> 3**3 + 7**3 + 1**3: <br>
 
 28.) <img width="1435" height="835" alt="image" src="https://github.com/user-attachments/assets/4acbc0c8-b9fb-4056-9987-735189ce61e5" />
+
+29) https://www.edaplayground.com/x/AfMK
+    //coverage
+    
